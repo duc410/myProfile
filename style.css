@@ -1,0 +1,45 @@
+.container{
+    background-color: rgb(86, 67, 172);
+    padding: 30px;
+    min-width: 200vh;
+    min-height: 100vh;
+}
+.display-container1{
+    background-color: azure;
+    text-align: center;
+    width: 600px;
+    min-height: 800px;
+    margin:auto;
+}
+.avatar{
+    padding: 15px;
+}
+.img-thumbnail{
+    max-height: 250px;
+    box-shadow: 5px 5px 5px grey;
+}
+h2{
+    color: rgb(86, 67, 172) ;
+}
+#img01{
+    width: 75px;
+    height: 50px;
+    margin-top: 10px ;
+}
+#img02{
+    width:40px;
+    height:40px;
+}
+.container-1{
+    background-color: rgb(185, 185, 185);
+}
+.container-2{
+    width: 400px;
+    margin: auto;
+}
+address{
+    text-align: center;
+    text-size-adjust: 50px;
+    color :red;
+    font-family: fantasy;
+}
