@@ -1,0 +1,13 @@
+
+.container{
+    background-color: rgb(218, 216, 216);
+    padding:auto;
+    margin-top: auto;
+}
+body{
+    text-align: center;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size:cover;
+}
